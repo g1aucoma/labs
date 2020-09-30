@@ -1,0 +1,14 @@
+C:\Users\student-09-302\source\repos\lr2\obj\Debug\lr2.csprojAssemblyReference.cache
+C:\Users\student-09-302\source\repos\lr2\obj\Debug\lr2.csproj.CoreCompileInputs.cache
+C:\Users\student-09-302\source\repos\lr2\bin\Debug\lr2.exe.config
+C:\Users\student-09-302\source\repos\lr2\bin\Debug\lr2.exe
+C:\Users\student-09-302\source\repos\lr2\bin\Debug\lr2.pdb
+C:\Users\student-09-302\source\repos\lr2\obj\Debug\lr2.exe
+C:\Users\student-09-302\source\repos\lr2\obj\Debug\lr2.pdb
+C:\Users\vip\Desktop\технологии программирования\lr2\bin\Debug\lr2.exe.config
+C:\Users\vip\Desktop\технологии программирования\lr2\bin\Debug\lr2.exe
+C:\Users\vip\Desktop\технологии программирования\lr2\bin\Debug\lr2.pdb
+C:\Users\vip\Desktop\технологии программирования\lr2\obj\Debug\lr2.csprojAssemblyReference.cache
+C:\Users\vip\Desktop\технологии программирования\lr2\obj\Debug\lr2.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\технологии программирования\lr2\obj\Debug\lr2.exe
+C:\Users\vip\Desktop\технологии программирования\lr2\obj\Debug\lr2.pdb

@@ -10,7 +10,7 @@ namespace lr1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Лабораторная работа №1. Разработкаконсольного предложения");
+            Console.WriteLine("Лабораторная работа №1. Разработкаконсольного предложения"); //Вариант 1
             Console.WriteLine("Прохоров Никита Юрьевич");
             Console.WriteLine("ИНС-192");
             Console.WriteLine("14.07.2001");

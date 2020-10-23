@@ -1,0 +1,9 @@
+F:\технологии программирования\lr3\obj\Debug\lr3.csprojAssemblyReference.cache
+F:\технологии программирования\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+G:\технологии программирования\lr3\obj\Debug\lr3.csprojAssemblyReference.cache
+G:\технологии программирования\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+G:\технологии программирования\lr3\bin\Debug\lr3.exe.config
+G:\технологии программирования\lr3\bin\Debug\lr3.exe
+G:\технологии программирования\lr3\bin\Debug\lr3.pdb
+G:\технологии программирования\lr3\obj\Debug\lr3.exe
+G:\технологии программирования\lr3\obj\Debug\lr3.pdb

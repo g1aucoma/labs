@@ -1,0 +1,7 @@
+C:\Users\vip\Desktop\технологии программирования\lr4\bin\Debug\lr4.exe.config
+C:\Users\vip\Desktop\технологии программирования\lr4\bin\Debug\lr4.exe
+C:\Users\vip\Desktop\технологии программирования\lr4\bin\Debug\lr4.pdb
+C:\Users\vip\Desktop\технологии программирования\lr4\obj\Debug\lr4.csprojAssemblyReference.cache
+C:\Users\vip\Desktop\технологии программирования\lr4\obj\Debug\lr4.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\технологии программирования\lr4\obj\Debug\lr4.exe
+C:\Users\vip\Desktop\технологии программирования\lr4\obj\Debug\lr4.pdb

@@ -1,0 +1,7 @@
+C:\Users\vip\Desktop\технологии программирования\lr5\bin\Debug\lr5.exe.config
+C:\Users\vip\Desktop\технологии программирования\lr5\bin\Debug\lr5.exe
+C:\Users\vip\Desktop\технологии программирования\lr5\bin\Debug\lr5.pdb
+C:\Users\vip\Desktop\технологии программирования\lr5\obj\Debug\lr5.csprojAssemblyReference.cache
+C:\Users\vip\Desktop\технологии программирования\lr5\obj\Debug\lr5.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\технологии программирования\lr5\obj\Debug\lr5.exe
+C:\Users\vip\Desktop\технологии программирования\lr5\obj\Debug\lr5.pdb

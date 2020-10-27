@@ -1,0 +1,7 @@
+C:\Users\vip\Desktop\технологии программирования\lr6\bin\Debug\lr6.exe.config
+C:\Users\vip\Desktop\технологии программирования\lr6\bin\Debug\lr6.exe
+C:\Users\vip\Desktop\технологии программирования\lr6\bin\Debug\lr6.pdb
+C:\Users\vip\Desktop\технологии программирования\lr6\obj\Debug\lr6.csprojAssemblyReference.cache
+C:\Users\vip\Desktop\технологии программирования\lr6\obj\Debug\lr6.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\технологии программирования\lr6\obj\Debug\lr6.exe
+C:\Users\vip\Desktop\технологии программирования\lr6\obj\Debug\lr6.pdb

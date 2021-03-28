@@ -1,0 +1,10 @@
+C:\Users\vip\Desktop\tech prog\lr13\bin\Debug\lr13.exe.config
+C:\Users\vip\Desktop\tech prog\lr13\bin\Debug\lr13.exe
+C:\Users\vip\Desktop\tech prog\lr13\bin\Debug\lr13.pdb
+C:\Users\vip\Desktop\tech prog\lr13\obj\Debug\lr13.csprojAssemblyReference.cache
+C:\Users\vip\Desktop\tech prog\lr13\obj\Debug\lr13.Form1.resources
+C:\Users\vip\Desktop\tech prog\lr13\obj\Debug\lr13.Properties.Resources.resources
+C:\Users\vip\Desktop\tech prog\lr13\obj\Debug\lr13.csproj.GenerateResource.cache
+C:\Users\vip\Desktop\tech prog\lr13\obj\Debug\lr13.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\tech prog\lr13\obj\Debug\lr13.exe
+C:\Users\vip\Desktop\tech prog\lr13\obj\Debug\lr13.pdb

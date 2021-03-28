@@ -1,0 +1,10 @@
+C:\Users\vip\Desktop\tech prog\lr12\bin\Debug\lr12.exe.config
+C:\Users\vip\Desktop\tech prog\lr12\bin\Debug\lr12.exe
+C:\Users\vip\Desktop\tech prog\lr12\bin\Debug\lr12.pdb
+C:\Users\vip\Desktop\tech prog\lr12\obj\Debug\lr12.csprojAssemblyReference.cache
+C:\Users\vip\Desktop\tech prog\lr12\obj\Debug\lr12.Form1.resources
+C:\Users\vip\Desktop\tech prog\lr12\obj\Debug\lr12.Properties.Resources.resources
+C:\Users\vip\Desktop\tech prog\lr12\obj\Debug\lr12.csproj.GenerateResource.cache
+C:\Users\vip\Desktop\tech prog\lr12\obj\Debug\lr12.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\tech prog\lr12\obj\Debug\lr12.exe
+C:\Users\vip\Desktop\tech prog\lr12\obj\Debug\lr12.pdb

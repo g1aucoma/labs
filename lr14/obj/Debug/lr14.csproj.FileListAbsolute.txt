@@ -1,0 +1,10 @@
+C:\Users\vip\source\repos\lr14\bin\Debug\lr14.exe.config
+C:\Users\vip\source\repos\lr14\bin\Debug\lr14.exe
+C:\Users\vip\source\repos\lr14\bin\Debug\lr14.pdb
+C:\Users\vip\source\repos\lr14\obj\Debug\lr14.csprojAssemblyReference.cache
+C:\Users\vip\source\repos\lr14\obj\Debug\lr14.Form1.resources
+C:\Users\vip\source\repos\lr14\obj\Debug\lr14.Properties.Resources.resources
+C:\Users\vip\source\repos\lr14\obj\Debug\lr14.csproj.GenerateResource.cache
+C:\Users\vip\source\repos\lr14\obj\Debug\lr14.csproj.CoreCompileInputs.cache
+C:\Users\vip\source\repos\lr14\obj\Debug\lr14.exe
+C:\Users\vip\source\repos\lr14\obj\Debug\lr14.pdb

@@ -1,0 +1,10 @@
+C:\Users\vip\Desktop\tech prog\lr15\bin\Debug\lr15.exe.config
+C:\Users\vip\Desktop\tech prog\lr15\bin\Debug\lr15.exe
+C:\Users\vip\Desktop\tech prog\lr15\bin\Debug\lr15.pdb
+C:\Users\vip\Desktop\tech prog\lr15\obj\Debug\lr15.csprojAssemblyReference.cache
+C:\Users\vip\Desktop\tech prog\lr15\obj\Debug\lr15.Form1.resources
+C:\Users\vip\Desktop\tech prog\lr15\obj\Debug\lr15.Properties.Resources.resources
+C:\Users\vip\Desktop\tech prog\lr15\obj\Debug\lr15.csproj.GenerateResource.cache
+C:\Users\vip\Desktop\tech prog\lr15\obj\Debug\lr15.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\tech prog\lr15\obj\Debug\lr15.exe
+C:\Users\vip\Desktop\tech prog\lr15\obj\Debug\lr15.pdb
